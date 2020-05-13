@@ -62,9 +62,9 @@ public class KamiMod {
 
     public static final String MODNAME = "ObamaHack";
     public static final String MODID = "obamahack";
-    public static final String MODVER = "v0.2.1";
-    public static final String MODVERSMALL = "v0.2.1";
-    public static final String MODVERBROAD = "v0.2.1";
+    public static final String MODVER = "v0.2.2";
+    public static final String MODVERSMALL = "v0.2.2";
+    public static final String MODVERBROAD = "v0.2.2";
 
     public static final String MCVER = "1.12.2";
 
