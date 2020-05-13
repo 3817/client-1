@@ -3,7 +3,7 @@ Thanks to 086 for the original KAMI, dominikaaa for KAMI Blue and all the variou
 
 Building instructions
 
- - git clone https://github.com/ollieobama/ObamaHack
+ - git clone https://github.com/obamadevelopment/client
 
 Import ObamaHack into your IDE of choice.
 - ./gradlew setupDecompWorkspace
